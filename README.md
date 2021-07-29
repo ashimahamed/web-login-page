@@ -5,10 +5,10 @@
 
 
 ### Features
-4 Pages included (Login, Register, Logout, Reset Password, Main Page/Welcome)
-Clean design
-Fully responsive
-Easy to use
+4 Pages included (Login, Register, Logout, Reset Password, Main Page/Welcome),
+Clean design,
+Fully responsive,
+Easy to use,
 Cross-browser compatibility (Chrome, Firefox, Opera, Microsoft Edge, Safari)
 
 ### Installation
