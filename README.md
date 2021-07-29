@@ -2,8 +2,6 @@
 
 <p align="left"> <a href="https://twitter.com/ash_host" target="blank"><img src="https://img.shields.io/twitter/follow/ash_host?logo=twitter&style=for-the-badge" alt="ash_host" /></a> </p>
 
-- 🌱 I’m currently learning **C# and Python**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ash_host" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ash_host" height="30" width="40" /></a>
