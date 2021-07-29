@@ -86,6 +86,8 @@
       width: 450px; 
       padding: 25px; 
     }
+    body {background-image: url('https://is-a-good.dev/content/dont-delete.jpg'); background-repeat:no-repeat; background-attachment:fixed; background-position: center; background-size:cover; overflow:hidden;}
+    .rounded{border-radius:4px;}
     .wrapper h2 {text-align: center}
     .wrapper form .form-group span {color: red;}
   </style>
@@ -109,9 +111,9 @@
             </div>
 
             <div class="form-group">
-              <input type="submit" class="btn btn-block btn-outline-primary" value="login">
+              <input type="submit" class="btn btn-block btn-outline-primary rounded" value="login">
             </div>
-            <p>if you don't have an account? <a href="register.php">Sign in</a>.</p>
+            <p>Don't have an account? Register <a href="register.php">here</a>.</p>
           </form>
     </section>
   </main>

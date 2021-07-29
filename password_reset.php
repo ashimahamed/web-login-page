@@ -74,6 +74,7 @@ if($_SERVER['REQUEST_METHOD'] == 'POST'){
             width: 450px; 
             padding: 20px; 
         }
+        body {background-image: url('https://is-a-good.dev/content/dont-delete.jpg'); background-repeat:no-repeat; background-attachment:fixed; background-position: center; background-size:cover; overflow:hidden;}
         .wrapper h2 {text-align: center}
         .wrapper form .form-group span {color: red;}
     </style>

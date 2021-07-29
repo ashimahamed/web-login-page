@@ -110,6 +110,10 @@
         	width: 500px; 
         	padding: 20px; 
         }
+		body {background-image: url('https://is-a-good.dev/content/dont-delete.jpg'); background-repeat:no-repeat; background-attachment:fixed; background-position: center; background-size:cover; overflow:hidden;}
+		.out-blue{border:1px solid #5A91CC !important; color:#5A91CC !important;} .out-blue:hover{background-color:#5A91CC !important; color:#ffffff !important;}
+		.out-red{border:1px solid #E64C4C !important; color:#E64C4C !important;} .out-red:hover{background-color:#E64C4C !important; color:#ffffff !important;}
+		.rounded{border-radius:4px;}
         .wrapper h2 {text-align: center}
         .wrapper form .form-group span {color: red;}
 	</style>
@@ -139,10 +143,10 @@
         		</div>
 
         		<div class="form-group">
-        			<input type="submit" class="btn btn-block btn-outline-success" value="Submit">
-        			<input type="reset" class="btn btn-block btn-outline-primary" value="Reset">
+        			<input type="submit" class="btn btn-block btn-outline-success rounded out-blue" value="Submit">
+        			<input type="reset" class="btn btn-block btn-outline-primary rounded out-red" value="Reset">
         		</div>
-        		<p>If you already have an account? <a href="login.php">Login here</a>.</p>
+        		<p>If you already have an account? Login <a href="login.php">here</a>.</p>
         	</form>
 		</section>
 	</main>
