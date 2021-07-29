@@ -4,14 +4,14 @@
 
 
 
-##Features
+### Features
 4 Pages included (Login, Register, Logout, Reset Password, Main Page/Welcome)
 Clean design
 Fully responsive
 Easy to use
 Cross-browser compatibility (Chrome, Firefox, Opera, Microsoft Edge, Safari)
 
-##Installation
+### Installation
 Download this Template and Database File, Use in your project
 
 <h3 align="left">Connect with me:</h3>
