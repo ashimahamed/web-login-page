@@ -14,8 +14,6 @@ Cross-browser compatibility (Chrome, Firefox, Opera, Microsoft Edge, Safari)
 ### Installation
 Download this Template and Database File, Use in your project
 
-![unknown (4)](https://user-images.githubusercontent.com/86522880/127606482-ccc70b74-af42-4564-95f5-f9654132ad18.png)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ash_host" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ash_host" height="30" width="40" /></a>
