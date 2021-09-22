@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/ash_host" target="blank"><img src="https://img.shields.io/twitter/follow/ash_host?logo=twitter&style=for-the-badge" alt="ash_host" /></a> </p>
 
-Coded by Ashim#7492 and Added Colours by Will..#1802
+Coded by Ashim#7492 and Added CSS by Will..#1802
 
 ### Features
 4 Pages included (Login, Register, Logout, Reset Password, Main Page/Welcome),
